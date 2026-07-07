@@ -1,0 +1,2 @@
+with open("history.txt", "a") as file:
+    file.write(f"{a}+{b}={result}\n")
